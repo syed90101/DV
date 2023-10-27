@@ -63,8 +63,6 @@ The data visualizations were created using a combination of the following tools 
 - **Pandas**: Data manipulation and preprocessing.
 - **Matplotlib**: Basic data visualization.
 - **Seaborn**: Enhanced data visualization.
-- **Plotly**: Interactive and web-based visualizations.
-- **Tableau**: For advanced visualizations and dashboards.
 
 ## Project Structure
 
